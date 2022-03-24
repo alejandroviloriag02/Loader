@@ -1,0 +1,12 @@
+<!-- ======= Preloader ======= -->
+<script src='https://rawcdn.githack.com/alejandroviloriag/skill/1bf9450faf31f3dc6ffb9ee109df0e6a4f2e3b2a/jquery-2.2.3.min.js'></script>
+    <script type='text/javascript'>
+//<![CDATA[
+        $(window).load(function () {
+            
+            $(".preloader").fadeOut("");
+            $("body").removeclass("preloader");
+
+        });
+    //]]> 
+</script>  <!-- ======= End Preloader ======= -->
