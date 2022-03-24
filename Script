@@ -1,5 +1,5 @@
 <!-- ======= Preloader ======= -->
-<script src='https://rawcdn.githack.com/alejandroviloriag/skill/1bf9450faf31f3dc6ffb9ee109df0e6a4f2e3b2a/jquery-2.2.3.min.js'></script>
+<script src='https://rawcdn.githack.com/alejandroviloriag02/Loader/c59ad9faee67455a5de2f9f36a1bee82371c6b6e/jquery-2.2.3.min.js'></script>
     <script type='text/javascript'>
 //<![CDATA[
         $(window).load(function () {
